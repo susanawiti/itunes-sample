@@ -7,7 +7,7 @@ This is a sample iTunes Search API for the Akirachix JS Class
 1. Git clone
 
 ```
-git clone https://github.com/evansmwendwa/itunes-sample.git
+git clone https://github.com/susanawiti/itunes-sample.git
 ```
 
 2. Switch to Directory
